@@ -5,14 +5,14 @@ export default function Contact() {
     {
       icon: MapPin,
       title: 'Visit Us',
-      info: 'Dubai, UAE',
+      info: 'India',
       action: null,
     },
     {
       icon: Phone,
       title: 'Call Us',
-      info: '+63 9167327740',
-      action: () => window.open('tel:+639167327740'),
+      info: '+91 8891524208',
+      action: () => window.open('tel:+918891524208'),
     },
     {
       icon: Mail,
